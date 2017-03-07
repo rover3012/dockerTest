@@ -1,0 +1,13 @@
+
+\.classpath
+
+\.idea/
+
+\.project
+
+\.settings/
+
+dockerTest\.iml
+
+target/
+build
